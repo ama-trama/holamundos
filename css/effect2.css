@@ -82,7 +82,7 @@ small {
 }
 
 .ip-header .ip-loader svg path.ip-loader-circlebg {
-	stroke: #ddd;
+	stroke: #333;
 }
 
 .ip-header .ip-loader svg path.ip-loader-circle {

@@ -3,7 +3,7 @@
 .clearfix:after { clear: both; }
 
 .top-nav {
-	position: fixed;
+	position: absolute;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -119,7 +119,7 @@
 }
 
 .uni-logo {
-	position: fixed;
+	position: absolute;
 	left: 10px;
 	top: 10px;
 }
