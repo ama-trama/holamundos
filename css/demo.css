@@ -2,6 +2,24 @@
 .clearfix:before, .clearfix:after { content: ''; display: table; }
 .clearfix:after { clear: both; }
 
+p::selection {
+  background: #333 !important; /* WebKit/Blink Browsers */
+  color: #fff !important;
+}
+p::-moz-selection {
+  background: #333 !important; /* Gecko Browsers */
+  color: #fff !important;
+}
+
+b::selection {
+  background: #333 !important; /* WebKit/Blink Browsers */
+  color: #fff !important;
+}
+b::-moz-selection {
+  background: #333 !important; /* Gecko Browsers */
+  color: #fff !important;
+}
+
 .love {
 	
 }
