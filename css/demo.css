@@ -82,6 +82,11 @@ b::-moz-selection {
 
   }
 
+  .uni-logo {
+    left: 32px;
+ 
+}
+
   p, article ul  {
   	line-height: 22px !important;
   	font-size: 18px !important;
