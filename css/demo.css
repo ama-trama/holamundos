@@ -2,6 +2,14 @@
 .clearfix:before, .clearfix:after { content: ''; display: table; }
 .clearfix:after { clear: both; }
 
+.love {
+	
+}
+
+.love:hover {
+	color: #333 !important;
+}
+
 .top-nav {
 	position: absolute;
 	top: 0;
@@ -59,7 +67,9 @@
   p, article ul  {
   	line-height: 22px !important;
   	font-size: 18px !important;
-  	text-align: left !important;
+  	text-align: justify !important;
+  	padding: 0 1rem;
+	letter-spacing: -0.004em;
   }
 
 
