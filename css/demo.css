@@ -83,7 +83,7 @@ b::-moz-selection {
   }
 
   .uni-logo {
-    left: 32px;
+    left: 32px !important;
  
 }
 
