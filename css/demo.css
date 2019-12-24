@@ -226,7 +226,7 @@ article h4 {
 
 article ul {
 	/*font-family: 'Alegreya Sans';*/
-			font-family: 'Space Mono', monospace;
+	font-family: 'Space Mono', monospace;
 	line-height: 30px;
 	font-size: 23px;
 	padding: 10px 22px;
@@ -234,7 +234,7 @@ article ul {
 }
 
 article a {
-	color: #f1f1f1 !important;
+	/*color: #f1f1f1 !important;*/
 	text-decoration: underline;
     -webkit-transition: all 0.38s cubic-bezier(0.7, 0, 0.3, 1);
     -moz-transition: all 0.38s cubic-bezier(0.7, 0, 0.3, 1);
