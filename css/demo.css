@@ -21,7 +21,7 @@ b::-moz-selection {
 }
 
 .love {
-	
+	color: #333 !important;
 }
 
 .love:hover {
